@@ -3,6 +3,6 @@ class f7
     public static void main(String[] args)
     {
         System.out.println("Hello, World!");
-        System.out.println("Updated code");
+        System.out.println("Updated codegit push");
     }
 }
